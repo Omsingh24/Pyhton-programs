@@ -1,3 +1,8 @@
+#Author: Om Singh
+#https://blog.electroica.com/category/programming/python/
+
+
+
 import psutil
 import time
 
